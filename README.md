@@ -1,4 +1,5 @@
 # Netflix Tableau Dashboard
+![Netflix](https://github.com/pratheeksha11/NetflixTableauDashboard/blob/main/netflix-logo%20(1).jpg)
 
 ## Introduction
 This project contains a Tableau dashboard project titled "Netflix - Tableau Dashboard". It provides an interactive visualization of Netflix titles, showcasing various insights and trends within the Netflix catalog.
