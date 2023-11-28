@@ -1,5 +1,5 @@
 ## Netflix Tableau Dashboard
-
+![Netflix](https://github.com/pratheeksha11/NetflixTableauDashboard/blob/main/netflix-logo%20(1).jpg)
 ### Overview
 The Netflix Tableau Dashboard is an interactive visualization tool designed to provide comprehensive insights into the vast array of titles available on Netflix. This project aims to explore various aspects of the content, such as genres, release years, ratings, and regional availability, offering a unique perspective on Netflix's content strategy and viewer preferences.
 
